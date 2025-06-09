@@ -7,7 +7,7 @@
   },
   {
     "id": "2",
-    "logo": "./Browser-Extension-Manager/src/assets/images/logo-style-spy.svg",
+    "logo": "./src/assets/images/logo-style-spy.svg",
     "name": "StyleSpy",
     "description": "Instantly analyze and copy CSS from any webpage element."
   },
